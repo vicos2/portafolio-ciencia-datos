@@ -1,4 +1,4 @@
-de# Escribe el problema de tu 01-perfil.md como te lo pediría un jefe o cliente
+def# Escribe el problema de tu 01-perfil.md como te lo pediría un jefe o cliente
 • Tradúcelo a una pregunta que los datos puedan responder y a la decisión que
 apoya
 • ¿Qué datos necesitarías? ¿Cuáles tienes, cuáles faltan y qué habría que
